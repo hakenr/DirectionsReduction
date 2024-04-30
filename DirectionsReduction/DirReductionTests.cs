@@ -4,7 +4,7 @@ namespace DirReduction
 	public class DirReductionTests
 	{
 		[TestMethod]
-		public void Test1()
+		public void Test1_SuperTest()
 		{
 			string[] a = new string[] { "NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST" };
 			string[] b = new string[] { "WEST" };
